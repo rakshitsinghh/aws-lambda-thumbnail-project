@@ -50,16 +50,16 @@ Save Thumbnail to Destination S3
 
 ## Screenshots
 
-### 1. AWS Lambda Configuration
+### 1. S3 Bucket Setup 
 ![Lambda Configuration](Screenshot%202026-10-10%20113545.png)
 
-### 2. S3 Bucket Setup
+### 2.  AWS Lambda Configuration
 ![S3 Setup](Screenshot%202026-10-10%20113613.png)
 
 ### 3. Event Trigger Configuration
 ![S3 Trigger](Screenshot%202026-10-10%20113629.png)
 
-### 4. Image Processing
+### 4. lambda code 
 ![Image Processing](Screenshot%202026-10-10%20113649.png)
 
 ### 5. Output Verification
